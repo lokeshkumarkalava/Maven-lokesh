@@ -5,7 +5,7 @@
   <groupId>Mobile1</groupId>
   <artifactId>Maven-file</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>99.0-SNAPSHOT</version>
   <name>Maven-file</name>
   <url>http://maven.apache.org</url>
 
